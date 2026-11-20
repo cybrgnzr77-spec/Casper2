@@ -1,5 +1,7 @@
 # Casper2
 
+[Downloads](https://github.com/cybrgnzr77-spec/Casper2/releases)
+
 An [Ashita v4](https://www.ashitaxi.com/) addon for Final Fantasy XI that lets you walk through
 other players, **NPCs and monsters**, without the short pause the game normally makes you wait.
 
